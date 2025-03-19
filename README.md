@@ -1,4 +1,4 @@
-# Workshop assignment 1.8
+# Workshop assignment 1.7
 
 This repository contains source file for the assignment and will be used a source for student repositories and in the workbook.
 

@@ -1,11 +1,11 @@
-# Workshop 1.7
+# Workshop 7: Is it Melting?
 
-*[CEGM1000 MUDE](http://mude.citg.tudelft.nl/)*
 
-*Written by: `<author(s)>`*
+In this notebook you will fit a model to a time series of height observations of a point on a glacier, to assess whether it is melting. 
 
-*Due: `<day of week>`, `<month>` `<day>`, `<year>`.*
-
-`<This repository contains source file for the assignment and will be used a source for student repositories and in the workbook. Replace this README with appropriate information describing the file types>`
-
-> Copyright 2025 MUDE, Delft University of Technology. This work is licensed under a CC BY 4.0 License
+**Learning objectives:**
+- apply least-squares (LS) and best linear unbiased (BLU) estimation
+- evaluate the precision of the estimated parameters
+- discuss the differences between least-squares and best linear unbiased estimation
+  
+> By Sandra Verhagen, Delft University of Technology. CC BY 4.0, more info on the Credits page of Workbook.

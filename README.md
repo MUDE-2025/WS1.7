@@ -1,4 +1,4 @@
-# Workshop 7: Is it Melting?
+# Workshop 1.7: Is it Melting?
 
 
 In this notebook you will fit a model to a time series of height observations of a point on a glacier, to assess whether it is melting. 
